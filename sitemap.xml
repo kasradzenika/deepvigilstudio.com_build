@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://deepvigilstudio.com/projects/</loc>
+    <loc>http://deepvigilstudio.com/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/blog/creating-a-new-theme/</loc>
+    <loc>http://deepvigilstudio.com/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/blog/goisforlovers/</loc>
+    <loc>http://deepvigilstudio.com/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/blog/hugoisforlovers/</loc>
+    <loc>http://deepvigilstudio.com/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/blog/migrate-from-jekyll/</loc>
+    <loc>http://deepvigilstudio.com/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/blog/</loc>
+    <loc>http://deepvigilstudio.com/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/categories/</loc>
+    <loc>http://deepvigilstudio.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/</loc>
+    <loc>http://deepvigilstudio.com/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/categories/development/</loc>
+    <loc>http://deepvigilstudio.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/development/</loc>
+    <loc>http://deepvigilstudio.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/go/</loc>
+    <loc>http://deepvigilstudio.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/categories/golang/</loc>
+    <loc>http://deepvigilstudio.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/golang/</loc>
+    <loc>http://deepvigilstudio.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/hugo/</loc>
+    <loc>http://deepvigilstudio.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/categories/projects/</loc>
+    <loc>http://deepvigilstudio.com/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/projects/</loc>
+    <loc>http://deepvigilstudio.com/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/</loc>
+    <loc>http://deepvigilstudio.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/templates/</loc>
+    <loc>http://deepvigilstudio.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deepvigilstudio.com/tags/themes/</loc>
+    <loc>http://deepvigilstudio.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
